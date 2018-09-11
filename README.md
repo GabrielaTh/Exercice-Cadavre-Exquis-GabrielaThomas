@@ -1,5 +1,14 @@
 # Exercice-Cadavre-Exquis-GabrielaThomas
-Exercise 1
-Améliorations des compétences en Markdown
-Améliorations des compétences en Git
-Apprentissage d'un workflow avec les contributeurs sur GitHub
+Exercises 1
+Installée à l’arrière de la voiture, coincée entre la portière et 2 où 3 sacs de courses, je me laissais bercer par la musique que mon père choisissait toujours avec soin avant de partir. Il aimait rouler de nuit et nous avait transmis son plaisir à maman et à moi. De mon siège, je les voyais parfois se regarder, sourire aux lèvres, et la tendresse qui se dégageait de ces échanges silencieux m’enveloppait aussi chaudement que mon plaid « en peau de Chubakka »  comme disait papa pour me taquiner, car c’est lui qui me l’avait offert l’hiver dernier. L’amour de mes parents emplissait l’habitacle et je me laissais glisser dans le sommeil presque sans m’en rendre compte.
+
+Je m’éveillai brusquement, tirée des bras de Morphée par un coup de tonnerre retentissant et des éclairs qui zébraient le ciel et éclairaient brièvement des morceaux du monde qui défilait sous mes yeux alors que nous continuions de rouler. Je n’avais pas peur de l’orage, au contraire, il me fascinait.
+
+Maman se retourna alors que je me redressai sur mon siège. Elle me sourit et je frissonnai, sans bien savoir pourquoi. Mal à l’aise, je tournai la tête vers la vitre et admirait le spectacle qui se déroulait sous mes yeux, au milieu du ciel. Çà et là, des pans de paysage se dévoilaient, au gré des éclairs qui les illuminaient. Nous longions une petite agglomération dont j’apercevais les toits et les clochers. Je laissai mon regard traîner paresseusement sur ces flashs d’un monde qui me paraissait étranger au mien bien que seule la carcasse de la voiture nous séparât. C’était là toute la magie de l’enfance. Je prenais plaisir à me raconter que l’extérieur était une autre planète, une autre dimension.
+
+Alors que je me racontais mes petites histoires, mon regard accrocha un détail que je ne compris pas. J’attendis l’éclair suivant et scrutai attentivement la déchirure lumineuse qui venait de s’ouvrir au-dessus de la petite ville. J’eus l’impression d’y distinguer de toutes petites formes mouvantes qui sinuaient le long de la foudre et fondaient sur les toits. J’écarquillai les yeux et me rapprochai de la fenêtre. Un nouveau frisson me traversa. Du coin de l’œil, je vis papa effleurer la main de maman.
+Les yeux rivés dehors, l’illumination suivante m’apporta la confirmation de ce que je venais de voir. Sur mes bras et ma nuque, la chair de poule dressa des barrières douloureuses. Des centaines (des milliers ?) de ce qui ressemblait à ces petits fruits à hélices qui tombent des érables se déversaient sur la ville au gré des marbrures lumineuses qui emplissaient maintenant tout le ciel. Je ne les avais pas remarqués tout de suite car ils brillaient autant que les éclats de foudre desquels ils se détachaient.
+
+Maman se retourna une nouvelle fois, j’ouvris la bouche pour lui faire part de ce que je venais de voir quand mon esprit se figea. A cet instant, très lentement, je réalisai que ce qui m’avait mise mal à l’aise un moment plus tôt c’était le regard anormalement brillant de ma mère. A l’inclinaison de sa nuque, je vis que mon père m’observait dans le rétroviseur. Une minuscule hélice dansait dans ses yeux et y faisait palpiter la même lumière que celle aperçue dans le regard de ma mère un peu plus tôt.
+
+Ma bouche s’arrondit de surprise sur un cri muet, bloqué au fond de ma gorge alors que maman tendait la main vers moi et que des dizaines de petits points lumineux scintillaient devant mes yeux.
