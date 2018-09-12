@@ -7,3 +7,6 @@ Installée à l’arrière de la voiture, coincée entre la portière et 2 où 3
 Je rève d'un noël passé, j'etait devant la chemine le soir du 24 et j'attendait avec impatiance minuit pour pouvoir finalment pouvoire me *jeter* sur le cadeau comme de mon abitude. Mes parents me regardeient du canapé de leur regard **chalereu**, un amour et une tendresse unique  irradiet de leur personne en cette occasion aussi.
 
 
+Tout à coup, une **bosse** sur la route me sorti de mes pensées. Mon père s'était arrêté. Il vint ouvrir la porte et cria :
+- Vite, sors ! **Tout de suite !**
+Après être sorti avec ma couverture en peau de Chubakka, mon père m'expliqua la situation :
