@@ -1,4 +1,4 @@
-# Exercice-Cadavre-Exquis-GabrielaThomas
+﻿# Exercice-Cadavre-Exquis-GabrielaThomas
 Exercises 1
 
 
@@ -10,3 +10,8 @@ Je rève d'un noël passé, j'etait devant la chemine le soir du 24 et j'attenda
 Tout à coup, une **bosse** sur la route me sorti de mes pensées. Mon père s'était arrêté. Il vint ouvrir la porte et cria :
 - Vite, sors ! **Tout de suite !**
 Après être sorti avec ma couverture en peau de Chubakka, mon père m'expliqua la situation :
+
+Ho non!!!!
+Nous allons manquer l'avant première de star wars
+
+![Pleure](decu.jpg)
